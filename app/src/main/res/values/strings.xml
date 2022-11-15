@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Super Hero</string>
+    <string name="back">Back</string>
+    <string name="field_req">Field required</string>
+    <string name="login">Log In</string>
+
+    <string name="email">Email</string>
+
+    <string name="logout">Logout</string>
+
+    <string name="notifications">Notifications</string>
+
+    <string name="field_required">Field Required</string>
+    <string name="inv_email">Invalid Email</string>
+    <string name="failed">Failed</string>
+    <string name="password_short">Password Short</string>
+    <string name="password">Password</string>
+    <string name="wait">Wait</string>
+    <string name="phone_pass_inc">Phone PAsswor incorrect</string>
+    <string name="no_notifications_to_show">No Notification To Show</string>
+    <string name="choose_delegete">Choose Delegte</string>
+    <string name="choose_client">Choose Pharmacy</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="show_location_of_delgete">Show Location Of Delgete</string>
+    <string name="pharmcy_name">Pharmcy Name</string>
+    <string name="customer_name">Customer Name:</string>
+    <string name="show_location">Show Location</string>
+    <string name="current_order">Current Order</string>
+    <string name="finish_order">Previous Order</string>
+    <string name="orders">Orders</string>
+
+</resources>
